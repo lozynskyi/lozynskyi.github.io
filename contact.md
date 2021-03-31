@@ -10,10 +10,14 @@ permalink: /contact
   <input type="text" id="name" name="name" placeholder="name:" autocomplete="off">
   <input type="text" id="email" name="email" placeholder="email:" autocomplete="off">
   <textarea rows="5" id="message" name="message" placeholder="message:" autocomplete="off"></textarea>
-<!--   <input type="submit" value="[ submit ]"> -->
-  <input type="button" value="click" onclick="msg()"/>  
+  <input type="submit" value="[ submit ]" onclick="msg()">
 </form>
 
 <br /><br />(Under construction...)
 
-<script src="{{ base.url | prepend: site.url }}/assets/script.js"></script>
+<script >
+  function msg(){  
+    alert("Hello D...");  
+  }   
+</script>
+<script src="{{ site.baseurl }}{% link assets/js/script.js %}" </script>
