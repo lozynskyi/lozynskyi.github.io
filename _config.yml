@@ -10,7 +10,10 @@ header_pages:
 
 style: dark
 
-footer: 'Trust me, I am an Engineer, and follow me on <a href="https://twitter.com/one_more_pol">twitter</a>'
+footer: 'Trust me, I am an Engineer, and follow me on sociall:
+    <a href="https://twitter.com/" target="_blank"><i class="nes-icon twitter is-small"></i></a> 
+    <a href="https://www.linkedin.com/" target="_blank"><i class="nes-icon linkedin is-small"></i></a>
+    <a href="https://github.com/lozynskyi" target="_blank"><i class="nes-icon github is-small"></i></a>'
 
 # Build settings
 markdown: kramdown
