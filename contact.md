@@ -14,10 +14,3 @@ permalink: /contact
 </form>
 
 <br /><br />(Under construction...)
-
-<script >
-  function msg(){  
-    alert("Hello D...");  
-  }   
-</script>
-<script src="{{ site.baseurl }}{% link assets/js/script.js %}" </script>
