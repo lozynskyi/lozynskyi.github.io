@@ -11,8 +11,6 @@ permalink: /contact
   <input type="text" id="email" name="email" placeholder="email:" autocomplete="off">
   <textarea rows="5" id="message" name="message" placeholder="message:" autocomplete="off"></textarea>
   <input type="submit" value="[ submit ]" onclick="msg()">
-  <input type="button " value="[ submit ]" onclick="msg()">
-
 </form>
 
 <br /><br />(Under construction...)
