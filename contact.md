@@ -5,7 +5,7 @@ permalink: /contact
 ---
 
 # Get in touch?
-<script>console.log('Hello my dear friend ...');</script>
+
 <form>
   <input type="text" id="name" name="name" placeholder="name:" autocomplete="off">
   <input type="text" id="email" name="email" placeholder="email:" autocomplete="off">
@@ -14,3 +14,5 @@ permalink: /contact
 </form>
 
 <br /><br />(Under construction...)
+
+<script src="{{ base.url | prepend: site.url }}/assets/script.js"></script>
