@@ -5,3 +5,4 @@ permalink: /
 ---
 
 # Welcome
+Some welcome text...
