@@ -1,5 +1,5 @@
-title: 'lozinskyi.github.io'
-description: "“Engineers like to solve problems. If there are no problems handily available, they will create their own problems.” - Scott Adams"
+title: 'Trust me, I'm an Engineer! lozinskyi.github.io'
+description: "Trust me, I'm an Engineer!"
 baseurl: "/"
 url: "https://lozinskyi.github.io"
 
@@ -10,7 +10,7 @@ header_pages:
 
 style: dark
 
-footer: 'follow me on <a href="https://www.instagram.com/i.m.pavlo/">instagram</a>'
+footer: 'Trust me, I'm an Engineer, and follow me on <a href="https://twitter.com/one_more_pol">twitter</a>'
 
 # Build settings
 markdown: kramdown
