@@ -5,7 +5,6 @@ url: "https://lozinskyi.github.io"
 
 header_pages:
   - index.md
-  - about.md
   - contact.md
 
 style: dark
