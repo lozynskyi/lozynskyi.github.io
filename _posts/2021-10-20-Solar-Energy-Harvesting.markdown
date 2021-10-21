@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Energy harvesting and solar charging..."
+title:  "Energy harvesting and solar charging P-1"
 date:   2021-10-20 14:32:45 +0100
 categories: hardware
 ---
