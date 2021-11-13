@@ -8,4 +8,6 @@ categories: software
 # BoringBox service
 Integrations smart|IOT device’s 
 # Stack
+PHP 8.2 Laravel 8 Inertia.js MariaDB
+ 
 # Agenda
