@@ -5,9 +5,10 @@ date:   2021-10-31 16:32:45 +0100
 categories: software
 ---
 
-# BoringBox service
+# BoringBox as a service
 Integrations smart|IOT device’s 
+
 # Stack
-PHP 8.2 Laravel 8 Inertia.js MariaDB
+PHP-8.2 Laravel-8 Inertia.js MariaDB Centrifugo
  
 # Agenda
