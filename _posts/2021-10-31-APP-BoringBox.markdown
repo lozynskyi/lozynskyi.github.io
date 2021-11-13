@@ -6,5 +6,6 @@ categories: software
 ---
 
 # BoringBox service
+Integrations smart|IOT device’s 
 # Stack
 # Agenda
