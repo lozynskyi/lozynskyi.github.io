@@ -9,6 +9,6 @@ categories: software
 Integrations smart|IOT device’s 
 
 # Stack
-PHP-8.2 Laravel-8 Inertia.js MariaDB Centrifugo
+PHP-8.2, Laravel-8, Inertia.js, Vue-3(using Composition API), Tailwind CSS.
  
 # Agenda
