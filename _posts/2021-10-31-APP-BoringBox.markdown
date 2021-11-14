@@ -8,7 +8,7 @@ categories: software
 # BoringBox as a service
 Integrations smart|IOT device’s 
 
-# Stack
-PHP-8.2, Laravel-8, Inertia.js, Vue-3(using Composition API), Tailwind CSS.
+# Softwares Stack
+MariaDB, Websocket, PHP-8.2, Laravel-8, Inertia.js, Vue-3(using Composition API), Tailwind CSS.
  
 # Agenda
