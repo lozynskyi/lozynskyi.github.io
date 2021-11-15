@@ -12,6 +12,6 @@ Integrations smart|IOT device’s.
 MariaDB, Websocket, PHP-8.2, Laravel-8, Inertia.js, Vue-3(using Composition API), Tailwind CSS.
 
 # Hardware Stack
-Esp8266(07s), Ltc3105, Supercapacitor(~100F-500F)
+Esp8266(07s), Ltc3105, Supercapacitor(~100F-500F), + SMD components
  
 # Agenda
