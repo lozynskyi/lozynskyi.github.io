@@ -13,5 +13,5 @@ MariaDB, Websocket, PHP-8.2, Laravel-8, Inertia.js, Vue-3(using Composition API)
 
 # Hardware Stack
 Esp8266(07s), Ltc3105, Supercapacitor(~100F-500F), + SMD components
- 
+(Development of hardware will be described in another post, link here...)
 # Agenda
